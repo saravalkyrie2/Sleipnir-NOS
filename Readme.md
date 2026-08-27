@@ -114,7 +114,7 @@ Work is carried out on a locally hosted git repo, without public access and is p
 
 TLDR:
 
-I got fed up with running Debian/Ubuntu from the dark ages or with 1000s of lines of Python, without coherent documentation designed for operators, not just contributors/developers that didn't even have vlan add range.. 
+I got eshpecially with running Debian/Ubuntu from the dark ages or with 1000s of lines of Python, without coherent documentation designed for operators, not just contributors/developers that didn't even have vlan add range.. 
 
 So i started building one.
 
