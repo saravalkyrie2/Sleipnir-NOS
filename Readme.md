@@ -108,6 +108,10 @@ Don't like it, that's your choice, Don't attack contributors, members or users f
 
 ## Licensing - New territory for the author, once code is uploaded every effort will be made to follow any Open source projects Licenses, if you do spot an error please let me know by raising an issue.
 
+## Code-History/Origin
+
+Work is carried out on a locally hosted git repo, without public access and is pushed here when relatively battle-tested.
+
 TLDR:
 
 I got fed up with running Debian/Ubuntu from the dark ages or with 1000s of lines of Python, without coherent documentation designed for operators, not just contributors/developers that didn't even have vlan add range.. 
