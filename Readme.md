@@ -73,7 +73,15 @@ results somewhere the ASIC can't see, or tell you in their README not to use the
 
 Speaking of "or tell you in their README not to use them in production."
 
-DO NOT USE This in production - yet. 
+DO NOT USE This in production - yet:
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ## Standing on shoulders
 
@@ -88,8 +96,22 @@ Bench-alpha, developed against real hardware, by a infrastructure engineer who d
 console habit. Not accepting production deployments; enthusiastically accepting the lessons of
 everyone who tried this before me.
 
+A web-ui is planned, and will support the entire software stack along with the CLI (Enterprise admins will feel at home, homelabs/home-datacentre operators & learners can "cut their teeth" without being overwhelmed)  
+
+## AI/LLM Disclosures
+
+TBC - They are being used - the projects mentality is: (Use of AI is fine , but you must understand or have conceptual awareness of what your code or reports mean and be able to verify assumptions i.e. "Trust But Verify")
+
+- If you can't debug/follow what the AI has written, then you shouldn't submit or use it.
+
+Don't like it, that's your choice, Don't attack contributors, members or users for it; Any such comments or mail go straight in the trash.
+
+## Licensing - New territory for the author, once code is uploaded every effort will be made to follow any Open source projects Licenses, if you do spot an error please let me know by raising an issue.
+
 TLDR:
 
 I got fed up with running Debian/Ubuntu from the dark ages or with 1000s of lines of Python, without coherent documentation designed for operators, not just contributors/developers that didn't even have vlan add range.. 
 
 So i started building one.
+
+
