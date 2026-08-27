@@ -92,7 +92,7 @@ of pragmatism.
 
 ## Status
 
-Bench-alpha, developed against real hardware, by a infrastructure engineer who doesn't understand the question "Why do this?" or "Brick walls are there for a reason"  with a very large serial
+Bench-alpha, developed against real hardware, by an infrastructure engineer who doesn't understand the question "Why do this?" or "Brick walls are there for a reason"  with a very large serial
 console habit. Not accepting production deployments; enthusiastically accepting the lessons of
 everyone who tried this before me.
 
