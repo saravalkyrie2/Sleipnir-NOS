@@ -7,7 +7,7 @@ This is a staging repo for the Nordlance Sleipnir NOS - Moonshot project (Circa 
 Sleipnir is a from-scratch NOS with one shared core and two personalities:
 
 - **Sleipnir-RouteROS** — x86 routers, kernel dataplane (VPP-class dataplane on the roadmap).
-- **Sleipnir-SwitchOS** — Real ASIC switches, driven **SAI-direct** (`libsaibcm`, no SONiC software stack in sight). The SONiC replacement, for those who like to have a life without endless phone calls at 3AM.
+- **Sleipnir-SwitchOS (Formerly the Railgun Network Operating Environment)** — Real ASIC switches, driven **SAI-direct** (`libsaibcm`, no SONiC software stack in sight). The SONiC replacement, for those who like to have a life without endless phone calls at 3AM.
 
 Named for Odin's eight-legged horse, because a switch with 32 ports of 100G deserves a mount with
 more legs than average, and because every infrastructure project is required to have a
