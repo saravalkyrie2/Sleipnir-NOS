@@ -16,7 +16,7 @@ Norse or Germanic name.
 ## Why would you do this?
 
 The VITM fleet ran VyOS-on-Arch (a steady diet of Debian-assumption bugs) and SONiC (a "do everything
-everyone at a hyperscaler needs, eventually" distribution whose quirks made most of the newcomers squirm. 
+everyone at a hyperscaler needs, eventually") distribution whose quirks made most of the newcomers squirm. 
 
 Sleipnir keeps the *good* ideas —
 config-DB architecture, commit/rollback model, orchestrating mature daemons
